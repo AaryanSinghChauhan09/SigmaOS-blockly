@@ -3,7 +3,7 @@ name = "SigmaOS-blockly"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "blockly component"
+description = "blockly platform GUI toolkit component"
 upstream = []
 
 [contract]
